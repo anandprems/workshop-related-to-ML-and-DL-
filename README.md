@@ -50,7 +50,7 @@ This repository contains:
 
 Whether you attended the workshop or are exploring these topics for the first time, this repository provides you with a comprehensive set of resources to enhance your understanding of machine learning and deep learning. Feel free to fork, clone, or download any materials you find useful.
 
-We hope this repository serves as a valuable reference on your journey from data to insights through the exciting realms of machine learning and deep learning. If you have any questions or suggestions, please don't hesitate to reach out and contribute to this collaborative learning space.
+I hope this repository serves as a valuable reference on your journey from data to insights through the exciting realms of machine learning and deep learning. If you have any questions or suggestions, please don't hesitate to reach out and contribute to this collaborative learning space.
 
 Happy learning and building intelligent systems!
 
