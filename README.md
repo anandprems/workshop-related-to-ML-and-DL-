@@ -24,17 +24,18 @@ Welcome to the GitHub repository for the "From Data to Insights: Exploring Machi
 9. Clustering with K-Means: Explore clustering techniques using the K-Means algorithm.
 
 10. Dimensionality Reduction with PCA: Grasp the concept of dimensionality reduction and how Principal Component Analysis (PCA) works.
+11. Debugging in Thonny IDE: Learn how to effectively debug Python code using Thonny IDE, including setting breakpoints, inspecting variables, and stepping through code.
 
 **Day 2: Deep Learning and Beyond**
-11. How DL Differs from ML: Delve into the distinctions between Deep Learning and traditional Machine Learning, including use cases and advantages.
+12. How DL Differs from ML: Delve into the distinctions between Deep Learning and traditional Machine Learning, including use cases and advantages.
 
-12. Deep Learning Fundamentals: Explore the fundamentals of neural networks and how they enable deep learning.
+13. Deep Learning Fundamentals: Explore the fundamentals of neural networks and how they enable deep learning.
 
-13. Convolutional Neural Networks (CNNs): Learn about CNNs, a cornerstone of deep learning for image-related tasks.
+14. Convolutional Neural Networks (CNNs): Learn about CNNs, a cornerstone of deep learning for image-related tasks.
 
-14. Hybrid ML-DL Approaches: Discover how to combine the strengths of both machine learning and deep learning to create robust models.
+15. Hybrid ML-DL Approaches: Discover how to combine the strengths of both machine learning and deep learning to create robust models.
 
-15. Tips for Success: Gain valuable insights and strategies to excel in the field of data science and machine learning.
+16. Tips for Success: Gain valuable insights and strategies to excel in the field of data science and machine learning.
 
 **Repository Contents**
 This repository contains:
